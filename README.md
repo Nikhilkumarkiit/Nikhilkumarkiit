@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<h3 align="center"> Full-Stack Developer | ML Enthusiastic</h3>
+<h3 align="center"> Ex-Web Developer Intern @Zidio | Machine Learning Beginner| Full-Stack Developer | </h3>
 
 <img align="right" alt="Coding" height="500" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
