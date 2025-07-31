@@ -12,12 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=manurajeshnaik&label=Profile%20views&color=0e75b6&style=flat" alt="manurajeshnaik" />
 </p>
 
-<p>
-- 🔭 I’m currently working on enhancing my CodeVerse project
-- 🤝 I’m looking to collaborate on any Front-end or Back-end webpages or websites
-- 🆘 Seeking help with: Implementing WebSockets for seamless real-time updates in applications
-- 🌱 I’m currently learning React.js and PostgreSQL
-- 💬 Ask me about HTML5, CSS3, JavaScript, Bootstrap, jQuery, Node.js, Express.js, EJS, MongoDB, API</p>
+- 🔭 I recently interned at **Bajaj Allianz General Insurance** as a Software Engineer Intern (May–July 2025)
+- 🌱 I’m currently exploring **React, PostgreSQL**, and advanced Spring Boot concepts
+- 👨‍💻 Check out my projects at [https://github.com/exoit0](https://github.com/exoit0)
+- 💬 Ask me about **Java, Frontend Development**
+- 📫 How to reach me: **manu.rajesh.naik@gmail.com**
+- ⚡ Fun fact: **I don't even know what I'm doing in Engineering at this point, but I just love the UI of Websites**
 
 
 
