@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 <h3 align="center"> Full-Stack Developer | ML Enthusiastic</h3>
 
-<img align="right" alt="Coding" height="400" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<img align="right" alt="Coding" height="500" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=niikhilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar" />
