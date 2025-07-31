@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/cb/09/d4/cb09d4ee36fb3788c750440f9b97cc72.gif" alt="Intro" height="200" width="680">
+  <img src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif" alt="Intro" height="200" width="680">
 </p>
 
 
@@ -9,14 +9,14 @@
 <img align="right" alt="Coding" height="300" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=manurajeshnaik&label=Profile%20views&color=0e75b6&style=flat" alt="manurajeshnaik" />
+  <img src="https://komarev.com/ghpvc/?username=niikhilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar" />
 </p>
 
 - 🔭 I’m currently working on enhancing my **CodeVerse project**
 - 🌱  I’m looking to collaborate on any **Front-end or Back-end webpages or websites**
 - 👨‍💻  Seeking help with: Implementing WebSockets for seamless real-time updates in applications
 - 💬 I’m currently learning **React.js and PostgreSQL**
-- 📫 How to reach me: **manu.rajesh.naik@gmail.com**
+- 📫 How to reach me: **nikhilksingh789@gmail.com**
 - ⚡ Ask me about HTML5, CSS3, JavaScript, Bootstrap, jQuery, Node.js, Express.js, EJS, MongoDB, API
 
 # 💻 Tech Stack:
